@@ -20,5 +20,3 @@ https://simple-memo-app-gold.vercel.app/
 - CSS
 - localStorage
 - Vercel (배포)
-
-## 📂 프로젝트 구조
